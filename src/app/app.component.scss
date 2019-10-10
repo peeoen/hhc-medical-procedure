@@ -1,0 +1,22 @@
+.main {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    text-align: center;
+    background: url('/assets/face.jpg');
+    background-repeat: no-repeat;
+    background-size: 500px 500px;
+}
+
+
+.content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: red;
+    font-size: 2rem;
+}
+
+.circle {
+    position: absolute;
+}
